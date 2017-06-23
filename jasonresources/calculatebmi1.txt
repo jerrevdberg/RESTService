@@ -1,0 +1,7 @@
+
+{
+    "calculateBMI": {
+        "length": "1.80",
+        "weight": "70"
+    }
+}
